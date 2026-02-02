@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Custom Reset */
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  background-color: #f8fafc;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
